@@ -1,1 +1,1 @@
-My current Resume for 2025 dispayed for the user on screen.
+My current Resume for 2025 displayed for the user on screen.
