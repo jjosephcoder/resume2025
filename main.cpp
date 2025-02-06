@@ -231,7 +231,7 @@ int main() {
     cout << "                                                    ---------- -------" << "\n\n";
     
     cout << R"(    Ingeus UK                Senior Solutions Lead\Enterprise Architect                    March 23 - Present
-    ---------                ------ --------- --------------- -----------------            ----- -- - -------
+    ---------                ------ --------- --------------- ---------                    ----- -- - -------
     - Leading the adoption and refinement of the TOGAF framework, embedding architectural best practices 
       across the enterprise.
     - Developing high-level enterprise architecture designs to support business transformation initiatives 
@@ -251,7 +251,7 @@ int main() {
     -----                   ------ --------- ------------------- ---------                 ----- -- - --------
     - Provided enterprise architecture consultancy, acting as a trusted advisor to prospects and internal teams.
     - Led business process analysis, identifying operational gaps and inefficiencies in enterprise workflows.
-    - Demonstrated the ROI and business value of Avnio’s automation solutions to key stakeholders.
+    - Demonstrated the ROI and business value of Avnio`s automation solutions to key stakeholders.
     - Documented and articulated solution architecture requirements and solutions with the DevOps team.
     - Organised and led daily Agile project stand up meetings with the DevOps Team.)";
     
@@ -325,6 +325,6 @@ int main() {
       including Back Office, Sales Order Processing, Sales, Pre Sales and Post Sales solution delivery.
     - Training the technical team on Digital Transformation, Enterprise Architecture principles and technical 
       documentation and design.)";
-    Sleep(20000);
+    Sleep(1000000);
     return 0;
 }
